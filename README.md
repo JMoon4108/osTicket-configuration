@@ -154,10 +154,10 @@ Role: Expanded Access
 <br />
 
 <p>
-<img src="https://imgur.com/VbMaiXy.png" height="80%" width="80%" alt="Agent Teams">
+<img src="https://imgur.com/azyRmTL.png" height="80%" width="80%" alt="Agent Teams">
 </p>
 <p>
-Under the "Teams" tab for agent Jane, select "Online Banking". Jacob will not be in a team. Once agent configuration is complete, select "Create".
+Under the "Teams" tab for agent Jane, select "Online Banking" and click "Add". Jacob will not be in a team. Once agent configuration is complete, select "Create".
 </p>
 <br />
 
@@ -216,12 +216,19 @@ Navigate to Help Topics -> "Add New Help Topic".
 </p>
 <p>
 Create five new help topics.
+  
 "Help Topic" -> "Parent Topic"
+
 Business Critical outage ->  Report a Problem
+
 Personal Computer Issues->  Report a Problem
+
 Password Reset->  Report a Problem
+
 Equipment Request-> General Inquiry
+
 Other-> General Inquiry
+
 No other settings need adjusted for the sake of this tutorial. 
 </p>
 <br />
