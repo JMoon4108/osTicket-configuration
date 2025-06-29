@@ -27,7 +27,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Configuration Steps</h2>
 
 <p>
-<img src="https://imgur.com/ypBQ1jf" height="80%" width="80%" alt="osTicket login"/>
+<img src="https://imgur.com/ypBQ1jf.png" height="80%" width="80%" alt="osTicket login"/>
 </p>
 <p>
 Once all installation steps and requsites have been installed, login to osTicket at: http://localhost/osTicket/scp/login.php
