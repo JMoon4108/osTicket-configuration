@@ -71,6 +71,7 @@ Navigate back to the main "Agents" tab and select Departments -> "Add New Depart
 </p>
 <p>
 No need to edit any settings, simply set name to "SysAdmins" and select "Create Dept".
+<b>Attention: Tickets will be auto-assigned to the "Maintenance" department, Select it and under "more" select "Delete" to avoid any issues. </b>
 </p>
 <br />
 
