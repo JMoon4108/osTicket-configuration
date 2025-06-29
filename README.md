@@ -71,6 +71,7 @@ Navigate back to the main "Agents" tab and select Departments -> "Add New Depart
 </p>
 <p>
 No need to edit any settings, simply set name to "SysAdmins" and select "Create Dept".
+
 <b>Attention: Tickets will be auto-assigned to the "Maintenance" department, Select it and under "more" select "Delete" to avoid any issues. </b>
 </p>
 <br />
@@ -104,14 +105,20 @@ Within main "Agents", Agents -> "Add New Agent". This is where you add team memb
 </p>
 <p>
 Create two Agents. 
-First agent's credentials: 
+First agent's credentials:
+  
 Name: Jane Smith
+
 Email: jane@email.com
+
 Username: jane
 
 Second agent's credentials:
+
 Name: Jacob West
+
 Email: jacob@email.com
+
 Username: jacob
 
 Follow next steps to set password and permissions for agent.
@@ -122,7 +129,9 @@ Follow next steps to set password and permissions for agent.
 <img src="https://imgur.com/mEK729I.png" height="80%" width="80%" alt="Set Password"/>
 </p>
 <p>
-Within the "Add New Agent" menu, select "Set Password" and uncheck "Send the agent a password reset email", Enter "Password1" for both boxes and agents. Also, uncheck "Require password change at next login" for ease of use. Once passwords match select "Set".
+Within the "Add New Agent" menu, select "Set Password" and uncheck "Send the agent a password reset email", Enter "Password1" for both boxes and agents.
+
+  Also, uncheck "Require password change at next login" for ease of use. Once passwords match select "Set".
 </p>
 <br />
 
@@ -131,12 +140,16 @@ Within the "Add New Agent" menu, select "Set Password" and uncheck "Send the age
 </p>
 <p>
 Under the "Access" tab for agent Jane set: 
+  
 Department: SysAdmins 
+
 Role: Supreme Admin
 
 for agent Jacob:
+
 Department: Support
-Role: View only
+
+Role: Expanded Access
 </p>
 <br />
 
@@ -161,16 +174,23 @@ Open the "Manage" tab, navigate to SLA -> "Add New SLA Plan".
 </p>
 <p>
 Create three new SLA plans:
+  
 Plan "Sev-A":
+
 Grace Period: 1 hour
+
 Schedule: 24/7
 
 Plan "Sev-B":
+
 Grace Period: 4 Hours
+
 Schedule: 24/7
 
 Plan "Sev-C":
+
 Grace Period: 8 Hours
+
 Schedule: 24/5 (Business Hours)
 </p>
 <br />
